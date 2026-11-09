@@ -1,0 +1,3 @@
+# Figentra's own open packages install the day they publish; everything else keeps pnpm's release age.
+minimumReleaseAgeExclude:
+  - "@figentra-oss/*"
